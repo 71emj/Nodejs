@@ -1,0 +1,22 @@
+{
+  "name": "project-liri",
+  "version": "1.0.0",
+  "description": "Working with Nodejs...it's gonna be awesome",
+  "main": "liri.js",
+  "scripts": {
+    "start": "Call liri to do your biddings",
+    "test": "echo \"liri seems to be waiting for your command\""
+  },
+  "keywords": [
+    "twitter-api",
+    "spotify-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+    "request": "^2.83.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  }
+}
