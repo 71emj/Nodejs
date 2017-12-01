@@ -1,4 +1,4 @@
-Access: 001, "spotify-this-song"
+﻿Access: 001, "spotify-this-song"
 
 Search Result: 
 Name of the song: Rose of Pain
@@ -123,3 +123,226 @@ Artist(s): Backstreet Boys
 Album name: The Hits--Chapter One
 Link to preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=910384155a20439582dabded7d7bcc4d
 12
+
+Access: 013, "movie-this"
+
+Search Result: 
+Movie title: Mr. Nobody
+Release year: 2009
+IMDB: 7.9
+Rotten Tomatoes: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+13
+
+Access: 014, "my-tweets"
+
+Search Result: 
+Fri Dec 01 01:54:41 +0000 2017
+Aenean dapibus sagittis justo non fermentum. Vestibulum sodales eleifend placerat.
+Fri Dec 01 01:47:41 +0000 2017
+In venenatis dui a suscipit vestibulum. Ut vitae enim nisl. Integer euismod euismod laoreet.
+Fri Dec 01 01:29:41 +0000 2017
+Mauris pharetra elementum arcu, eu bibendum turpis gravida ut.
+Fri Dec 01 01:28:34 +0000 2017
+Etiam ultricies tempus gravida. Maecenas sit amet lectus urna. Duis et lacus vulputate enim aliquet tincidunt ac sit amet sapien.
+Thu Nov 30 19:57:15 +0000 2017
+Praesent ex mi, scelerisque eget lacus ut, convallis iaculis lorem. Nulla at dignissim velit.
+Thu Nov 30 19:18:29 +0000 2017
+Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at. Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Thu Nov 30 19:13:29 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu.
+Thu Nov 30 19:08:29 +0000 2017
+Donec et enim massa. Mauris pharetra elementum arcu, eu bibendum turpis gravida ut. In venenatis dui a suscipit ves… https://t.co/spJXUN2QwG
+Thu Nov 30 19:03:29 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu. Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at.
+Thu Nov 30 19:03:29 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Thu Nov 30 18:53:01 +0000 2017
+Donec et enim massa.
+Thu Nov 30 15:59:59 +0000 2017
+Integer sit amet odio tristique, posuere mi quis, scelerisque enim. Nam consequat euismod metus facilisis consequat… https://t.co/ZSqccVhAim
+Thu Nov 30 15:57:28 +0000 2017
+I Love Twitter
+Wed Nov 29 04:59:36 +0000 2017
+So to test twitter max_id I need more sample tweets.
+Wed Nov 29 00:05:51 +0000 2017
+Ipsum
+Wed Nov 29 00:05:42 +0000 2017
+Lorem
+14
+
+Access: 015, "default"
+
+Search Result: 
+Fri Dec 01 03:57:51 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:49:51 +0000 2017
+Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at. Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:46:50 +0000 2017
+Aenean dapibus sagittis justo non fermentum. Vestibulum sodales eleifend placerat.
+Fri Dec 01 03:43:50 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu. Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at.
+Fri Dec 01 03:40:50 +0000 2017
+Donec et enim massa.
+Thu Nov 30 15:57:28 +0000 2017
+I Love Twitter
+Wed Nov 29 04:59:36 +0000 2017
+So to test twitter max_id I need more sample tweets.
+Wed Nov 29 00:05:51 +0000 2017
+Ipsum
+Wed Nov 29 00:05:42 +0000 2017
+Lorem
+15
+
+Access: 016, "default"
+
+Search Result: 
+Name of the song: The Sign
+Artist(s): Ace of Base
+Album name: The Sign (US Album) [Remastered]
+Link to preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=910384155a20439582dabded7d7bcc4d
+16
+
+Access: 017, "default"
+
+Search Result: 
+Movie title: Mr. Nobody
+Release year: 2009
+IMDB: 7.9
+Rotten Tomatoes: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+17
+
+Access: 018, "default"
+
+Search Result: 
+Movie title: Mr. Nobody
+Release year: 2009
+IMDB: 7.9
+Rotten Tomatoes: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+18
+
+Access: 019, "default"
+
+Search Result: 
+Fri Dec 01 03:57:51 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:49:51 +0000 2017
+Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at. Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:46:50 +0000 2017
+Aenean dapibus sagittis justo non fermentum. Vestibulum sodales eleifend placerat.
+Fri Dec 01 03:43:50 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu. Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at.
+Fri Dec 01 03:40:50 +0000 2017
+Donec et enim massa.
+Thu Nov 30 15:57:28 +0000 2017
+I Love Twitter
+Wed Nov 29 04:59:36 +0000 2017
+So to test twitter max_id I need more sample tweets.
+Wed Nov 29 00:05:51 +0000 2017
+Ipsum
+Wed Nov 29 00:05:42 +0000 2017
+Lorem
+19
+
+Access: 020, "default"
+
+Search Result: 
+Fri Dec 01 03:57:51 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:49:51 +0000 2017
+Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at. Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:46:50 +0000 2017
+Aenean dapibus sagittis justo non fermentum. Vestibulum sodales eleifend placerat.
+Fri Dec 01 03:43:50 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu. Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at.
+Fri Dec 01 03:40:50 +0000 2017
+Donec et enim massa.
+Thu Nov 30 15:57:28 +0000 2017
+I Love Twitter
+Wed Nov 29 04:59:36 +0000 2017
+So to test twitter max_id I need more sample tweets.
+Wed Nov 29 00:05:51 +0000 2017
+Ipsum
+Wed Nov 29 00:05:42 +0000 2017
+Lorem
+20
+
+Access: 021, "default"
+
+Search Result: 
+Fri Dec 01 03:57:51 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:49:51 +0000 2017
+Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at. Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:46:50 +0000 2017
+Aenean dapibus sagittis justo non fermentum. Vestibulum sodales eleifend placerat.
+Fri Dec 01 03:43:50 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu. Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at.
+Fri Dec 01 03:40:50 +0000 2017
+Donec et enim massa.
+21
+
+Access: 022, "default"
+
+Search Result: 
+Fri Dec 01 03:57:51 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:49:51 +0000 2017
+Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at. Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:46:50 +0000 2017
+Aenean dapibus sagittis justo non fermentum. Vestibulum sodales eleifend placerat.
+Fri Dec 01 03:43:50 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu. Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at.
+Fri Dec 01 03:40:50 +0000 2017
+Donec et enim massa.
+Thu Nov 30 15:57:28 +0000 2017
+I Love Twitter
+Wed Nov 29 04:59:36 +0000 2017
+So to test twitter max_id I need more sample tweets.
+Wed Nov 29 00:05:51 +0000 2017
+Ipsum
+Wed Nov 29 00:05:42 +0000 2017
+Lorem
+22
+
+Access: 023, "default"
+
+Search Result: 
+Fri Dec 01 03:57:51 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+23
+
+Access: 024, "default"
+
+Search Result: 
+Fri Dec 01 03:57:51 +0000 2017
+Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:49:51 +0000 2017
+Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at. Cras suscipit consectetur dolor, a mattis sapien tincidunt a.
+Fri Dec 01 03:46:50 +0000 2017
+Aenean dapibus sagittis justo non fermentum. Vestibulum sodales eleifend placerat.
+Fri Dec 01 03:43:50 +0000 2017
+Suspendisse ut tortor quis lacus ultricies imperdiet et ac arcu. Nunc sagittis sollicitudin orci, eget ultrices leo scelerisque at.
+Fri Dec 01 03:40:50 +0000 2017
+Donec et enim massa.
+24
+
+Access: 025, "spotify-this-song"
+
+Search Result: 
+Name of the song: Render
+Artist(s): Northlane
+Album name: Mesmer
+Link to preview: https://p.scdn.co/mp3-preview/ec6b7a3bc7453fc6508c1ad38dc959ccd8d81ccf?cid=910384155a20439582dabded7d7bcc4d
+25
