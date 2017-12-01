@@ -19,4 +19,4 @@ module.exports = {
 	twitterKeys,
 	spotifyKeys,
 	omdbKeys,
-}
+};

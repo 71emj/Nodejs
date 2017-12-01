@@ -145,5 +145,4 @@ const Liri = {
 	}
 };
 
-
 Liri[action](arg1, arg2);
