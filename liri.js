@@ -124,7 +124,7 @@ const Liri = {
 			"message": "Okay, what's the name of the artist?",
 			"name": "artistName",
 			"when": (answers) => {
-				return answers.nameExist === true;
+				return answers.nameExist;
 			}
 		}]).then((data) => {
 			let queryString = "";
